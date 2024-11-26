@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zuv0pIL1zp4=",
+  "success": true,
+  "projectFilePath": "/Users/jon/Documents/goDutch/goDutch/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/jon/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/jon/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/jon/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
